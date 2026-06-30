@@ -1,0 +1,7 @@
+{
+    "menu": {
+        "1": {"nama": "ayam", "harga": 100000},
+        "2": {"nama": "sapi", "harga": 120000},
+        "3": {"nama": "babi", "harga": 80000}
+    }
+}
